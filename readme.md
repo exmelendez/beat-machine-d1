@@ -6,4 +6,4 @@ In my efforts to improve my skills as a web developer I have joined the JavaScri
 The first task provided is a beat machine that allows you to press the keys on your keyboard to play sounds.
 
 ### Live Site
-Feel free to download/clone the repo or try it live by clicking [here](https://exmelendez.github.io/beat-machine-d1/).
+Feel free to download/clone the repo or try it live by clicking <a href="https://exmelendez.github.io/beat-machine-d1/" target="_blank">here</a>.
